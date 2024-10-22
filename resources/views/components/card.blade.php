@@ -1,0 +1,21 @@
+<section>
+    <article>
+        <section>
+            {{$img}}
+        </section>
+        <h2>
+            {{$titulo}}
+        </h2>
+        <p>
+            {{$slot}}
+        </p>
+        <section>
+            <button>
+                delete
+            </button>
+            <button>
+                edit
+            </button>
+        </section>
+    </article>
+</section>
