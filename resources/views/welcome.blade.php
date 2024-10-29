@@ -1,4 +1,4 @@
-@extends('layouts.home')
+@extends('formularios')
 @section('title', 'Actividad')
 @section('titulo')
     <h1 class="flex h-[130px] justify-center items-center uppercase text-[1.4em]"> hola a tododos </h1>
